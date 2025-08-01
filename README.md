@@ -32,6 +32,9 @@
 
 ---
 
+## 🏅 Certifications
+
+- [Responsive Web Design Certification - FreeCodeCamp](https://www.freecodecamp.org/certification/sudhanshuverse/responsive-web-design)
 
 ## 📬 Contact
 
