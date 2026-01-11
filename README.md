@@ -1,66 +1,69 @@
-# 👋 Hi, I'm [Your Name]
-
-🚀 **MERN Stack Developer (Frontend-Focused) | Backend Learner**
-
-I’m a passionate web developer with strong experience in **modern frontend development** and hands-on exposure to real-world projects. Currently, I’m expanding my expertise by learning **backend development** to become a full-stack MERN developer.
-
----
-
-## 💡 About Me
-
-- 💻 Skilled in building responsive and scalable web applications  
-- 🌱 Currently learning **Backend Development (Node.js, Express, MongoDB)**  
-- 🎯 Strong focus on clean UI, performance, and user experience  
-- 🤝 Experience working on **real-life client projects**
+<div align="center">
+  <h1>Hi 👋, I'm a MERN Stack Developer</h1>
+    <p><strong>Passionate about building scalable web applications | Frontend Specialist | Backend Learner</strong></p>
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 About Me
 
-### Frontend
-- **HTML5 | CSS3 | JavaScript (ES6+)**
-- **React.js**
-- **Redux**
-- **Tailwind CSS**
+I am a professional **React Developer** specializing in building responsive and user-friendly web applications. I have experience leading frontend development for a live school website currently learning **backend development with Node.js, Express.js, and MongoDB** to grow as a full-stack developer.
 
-### Backend (Learning)
-- **Node.js**
-- **Express.js**
-- **MongoDB**
+🌐 Portfolio: https://sudhanshuverse.vercel.app/
 
-### Tools & Others
-- Git & GitHub  
-- REST APIs  
-- Responsive Web Design  
 
----
 
-## 📂 Projects
+## 🛠️ Technical Skills
 
-### 🏫 School Website (Client Project)
-- Developed a **real-world school website** with a friend  
-- Fully responsible for the **complete frontend development**
-- Built responsive layouts and modern UI using **React & Tailwind CSS**
-- Focused on usability, performance, and clean code structure
+### Frontend Development
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="margin: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="margin: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" style="margin: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50" style="margin: 15px;"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" style="margin: 15px;"/>
+</div>
 
-> This project helped me gain hands-on experience in client communication, teamwork, and production-level frontend development.
+### Backend Development (Learning)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="margin: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="50" height="50" style="margin: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" style="margin: 15px;"/>
+</div>
 
----
-
-## 📈 What I'm Working On
-
-- Improving backend development skills  
-- Learning full-stack MERN workflows  
-- Building scalable and maintainable applications  
+### Tools & Version Control
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" style="margin: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="margin: 15px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" style="margin: 15px;"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50" style="margin: 15px;"/>
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 🚀 Featured Project
 
-- GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn URL]
-- Portfolio: [Your Portfolio URL]
+### 📚 School Website – Client Project
+🔗 Live: https://stcolumbusekdara.cloud/
 
+This was a **full-stack client project** developed collaboratively with a friend. I was responsible for building the **entire frontend**, while my friend handled the **backend development**. I focused on delivering a clean, responsive, and user-friendly interface using **EJS, CSS, and JavaScript**.
+
+**My Key Contributions:**
+- ✅ Designed and developed the complete frontend from scratch
+- ✅ Implemented fully responsive layouts (Mobile, Tablet, Desktop)
+- ✅ Built dynamic and reusable UI using EJS templates
+- ✅ Ensured cross-browser compatibility and performance optimization
+- ✅ Collaborated closely with the backend developer for seamless integration
+  
 ---
 
-⭐ **Feel free to explore my repositories and connect with me!**
+## 📈 Currently Learning
+- Advanced Node.js & Express.js patterns
+- Database design and optimization with MongoDB
+- Building secure RESTful APIs
+- Authentication & Authorization (JWT, Sessions)
+- MERN full-stack architecture
+- Deployment and DevOps basics
+  
+---
