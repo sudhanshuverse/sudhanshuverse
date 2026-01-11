@@ -1,71 +1,66 @@
-<!-- Professional GitHub Profile README -->
+# 👋 Hi, I'm [Your Name]
 
-<h1 align="center">Hi 👋, I'm Sudhanshu</h1>
-<h3 align="center">React Developer | Full Stack Enthusiast | Building Scalable Web Applications</h3>
+🚀 **MERN Stack Developer (Frontend-Focused) | Backend Learner**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudhanshu-101&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshu-101" />
-</p>
+I’m a passionate web developer with strong experience in **modern frontend development** and hands-on exposure to real-world projects. Currently, I’m expanding my expertise by learning **backend development** to become a full-stack MERN developer.
 
 ---
 
-## 🚀 About Me
+## 💡 About Me
 
-I’m a **React Developer and Computer Science student** with hands-on experience building **real-world, client-based web applications**. I focus on creating **clean, responsive, and user-friendly interfaces** while collaborating on full stack projects.
-
-- 🔭 Currently working on **real-life client projects** and improving my React ecosystem skills  
-- ⚛️ Specialized in **React.js frontend development**
-- 🤝 Worked with a team on a **full stack school management website**
-- 🌱 Continuously learning modern web technologies and best practices
-- 💬 Ask me about **React, JavaScript, UI development, or web projects**
-- 📫 Reach me at **sudhanshu95084145@gmail.com**
+- 💻 Skilled in building responsive and scalable web applications  
+- 🌱 Currently learning **Backend Development (Node.js, Express, MongoDB)**  
+- 🎯 Strong focus on clean UI, performance, and user experience  
+- 🤝 Experience working on **real-life client projects**
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
+### Frontend
+- **HTML5 | CSS3 | JavaScript (ES6+)**
+- **React.js**
+- **Redux**
+- **Tailwind CSS**
+
+### Backend (Learning)
+- **Node.js**
+- **Express.js**
+- **MongoDB**
+
+### Tools & Others
+- Git & GitHub  
+- REST APIs  
+- Responsive Web Design  
 
 ---
 
-## 💼 Real-World Client Project
+## 📂 Projects
 
-### 🏫 School Full Stack Website  
-🔗 **Live Website:** [stcolumbusekdara.cloud](https://stcolumbusekdara.cloud/)
+### 🏫 School Website (Client Project)
+- Developed a **real-world school website** with a friend  
+- Fully responsible for the **complete frontend development**
+- Built responsive layouts and modern UI using **React & Tailwind CSS**
+- Focused on usability, performance, and clean code structure
 
-- Developed the **complete frontend** using **React.js**
-- Implemented **responsive UI**, clean layouts, and smooth navigation
-- Collaborated with a friend on the **full stack architecture**
-- Focused on performance, usability, and real client requirements
-
----
-
-## 🏅 Certifications & Achievements
-
-- 📜 [Responsive Web Design Certification – FreeCodeCamp](https://www.freecodecamp.org/certification/sudhanshuverse/responsive-web-design)
+> This project helped me gain hands-on experience in client communication, teamwork, and production-level frontend development.
 
 ---
 
-## 📬 Contact
+## 📈 What I'm Working On
 
-- 📧 Email: v[sudhanshu95084145@gmail.com](mailto:sudhanshu95084145@gmail.com)
-
-<!-- Optional
-- LinkedIn:
-- Portfolio:
--->
+- Improving backend development skills  
+- Learning full-stack MERN workflows  
+- Building scalable and maintainable applications  
 
 ---
 
-<p align="center">
-  <em>“Transforming ideas into impactful web experiences.”</em>
-</p>
+## 📫 Connect With Me
+
+- GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+- LinkedIn: [Your LinkedIn URL]
+- Portfolio: [Your Portfolio URL]
+
+---
+
+⭐ **Feel free to explore my repositories and connect with me!**
