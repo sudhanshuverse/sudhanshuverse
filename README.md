@@ -7,7 +7,7 @@
 
 ## 💼 About Me
 
-I am a professional **React Developer** specializing in building responsive and user-friendly web applications. I have experience leading frontend development for a live school website currently learning **backend development with Node.js, Express.js, and MongoDB** to grow as a full-stack developer.
+I am a **React Developer** specializing in building responsive and user-friendly web applications. I have experience leading frontend development for a live school website currently learning **backend development with Node.js, Express.js, and MongoDB** to grow as a full-stack developer.
 
 🌐 Portfolio: https://sudhanshuverse.vercel.app/
 
