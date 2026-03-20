@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi 👋, I'm a MERN Stack Developer</h1>
-    <p><strong>Passionate about building scalable web applications | Frontend Specialist | Backend Learner</strong></p>
+    <p><strong>Passionate about building scalable web applications</strong></p>
 </div>
 
 ---
@@ -25,7 +25,7 @@ I am a **React Developer** specializing in building responsive and user-friendly
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" style="margin: 15px;"/>
 </div>
 
-### Backend Development (Learning)
+### Backend Development
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="margin: 15px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50" style="background-color: white; border-radius: 6px; padding: 4px;"/>
@@ -58,12 +58,3 @@ This was a **full-stack client project** developed collaboratively with a friend
   
 ---
 
-## 📈 Currently Learning
-- Advanced Node.js & Express.js patterns
-- Database design and optimization with MongoDB
-- Building secure RESTful APIs
-- Authentication & Authorization (JWT, Sessions)
-- MERN full-stack architecture
-- Deployment and DevOps basics
-  
----
