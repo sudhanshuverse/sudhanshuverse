@@ -28,14 +28,14 @@ I am a **React Developer** specializing in building responsive and user-friendly
 ### Backend Development
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="margin: 15px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50" style="filter: invert(1); background:black; padding:5px; border-radius:6px;" />
+  <img src="./icons/express.svg" alt="Express.js" width="50" height="50" style="padding:5px; border-radius:6px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" style="margin: 15px;"/>
 </div>
 
 ### Tools & Version Control
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" style="margin: 15px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="margin: 15px; filter: invert(1);"/> 
+  <img src="./icons/githubIcon.svg" alt="GitHub" width="50" height="50" style="margin: 15px; filter: invert(1);"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" style="margin: 15px;"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50" style="margin: 15px;"/>
 </div>
