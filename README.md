@@ -53,6 +53,4 @@ This was a **full-stack client project** developed collaboratively with a friend
 - ✅ Built dynamic and reusable UI using EJS templates
 - ✅ Ensured cross-browser compatibility and performance optimization
 - ✅ Collaborated closely with the backend developer for seamless integration
-  
 ---
-
