@@ -25,17 +25,17 @@ I am a **React Developer** specializing in building responsive and user-friendly
 
 ### Backend Development
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50" style="margin: 0 8px;"/>
+  <img src="./icons/express.svg" width="50" height="50" style="margin: 0 8px;  padding:5px; border-radius:6px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50" style="margin: 0 8px;"/>
 </div>
 
 ### Tools & Version Control
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" style="margin: 0 8px;"/>
+  <img src="./icons/githubIcon.svg" width="50" height="50" style="margin: 0 8px; filter: invert(1);"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" style="margin: 0 8px;"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" height="50" style="margin: 0 8px;"/>
 </div>
 
 ---
@@ -53,4 +53,6 @@ This was a **full-stack client project** developed collaboratively with a friend
 - ✅ Built dynamic and reusable UI using EJS templates
 - ✅ Ensured cross-browser compatibility and performance optimization
 - ✅ Collaborated closely with the backend developer for seamless integration
+  
 ---
+
