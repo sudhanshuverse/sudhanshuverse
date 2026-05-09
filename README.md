@@ -17,25 +17,17 @@ I am a **React Developer** specializing in building responsive and user-friendly
 
 ### Frontend Development
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" style="margin: 0 8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" style="margin: 0 8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" style="margin: 0 8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" style="margin: 0 8px;"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind,redux,html,css" />
 </div>
 
 ### Backend Development
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50" style="margin: 0 8px;"/>
-  <img src="./icons/express.svg" width="50" height="50" style="margin: 0 8px;  padding:5px; border-radius:6px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50" style="margin: 0 8px;"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql," />
 </div>
 
 ### Tools & Version Control
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50" style="margin: 0 8px;"/>
-  <img src="./icons/githubIcon.svg" width="50" height="50" style="margin: 0 8px; filter: invert(1);"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" style="margin: 0 8px;"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" height="50" style="margin: 0 8px;"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma" />
 </div>
 
 ---
